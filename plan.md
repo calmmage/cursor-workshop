@@ -9,12 +9,13 @@
 - workshop - interactive exercises
 
 # Preparation
+- laptop / desktop is required
 - install cursor
   - https://www.cursor.com/
 - checkout the workshop repos
   - https://github.com/calmmage/cursor-workshop
   - https://github.com/calmmage/cursor-workshop-TextTailor-Scrapers
-- prepare working python interpreter
+- prepare working python / preferred language interpreter
   - https://conda-forge.org/download/ 
 - cursor license? Don't need -> free trial
   - Register a new account on https://www.cursor.com/
@@ -33,6 +34,8 @@
 - Optional: Just tell about my day-to-day cursor usage
 
 # Workshop
-- Try to work with https://github.com/calmmage/cursor-workshop-TextTailor-Scrapers
+- Try to work with sample repos
+  - https://github.com/calmmage/cursor-workshop-TextTailor-Scrapers
+  - 
 - Come up with your own idea and try to implement it
 - Take existing pet / work project and try working with it
